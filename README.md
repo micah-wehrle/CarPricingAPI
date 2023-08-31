@@ -24,8 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
+This project is part of the Car Pricing API project from the  [Nest Udemy course](https://www.udemy.com/course/nestjs-the-complete-developers-guide/) created by Stephen Grider.
 ## Installation
 
 ```bash
